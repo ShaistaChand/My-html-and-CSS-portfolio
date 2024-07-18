@@ -1,3 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaista's-Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="">
+
+    
+</head>
+
+<body>
+
+    <div class="navbar">
+
+        <ul>
+        <li><a href="./public/about.html">About Me</a></li>
+        <li><a href="./public/resume.html">Resume</a></li>
+        <li><a href="./public/My Projects/index.html">Projects</a></li>
+        <li><a href="./public/contact.html">Contact Me</a></li>
+        <li><a href="Back to Homepage">Back to Homepage</a></li>
+    </ul>
+</div>
+</div>
+
+    <div class="left-text">
+        <h1 class="Heading">Shaista Chand <br> </h1> 
+        <h3 class="SubHeading">Frontend developer</h3>
+    </div>
+    
+
+        <div class="myphoto">
+        <img src="./assets/images/Untitled design.png" alt="Shaista's photo" width="470px">
+        </div>
+</div>
+</ol>
+    <hr>
+    </div>
+</body>
+<footer>
+    <p>@Shaista Chand &copy; All copyrights reserved 2024</p>
+</footer>
+
+</html>
+
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 *{
